@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = ({ handleChange }) => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-4">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-3">
       <div className="container-fluid">
         <a className="navbar-brand text-light" href="/">My Movies</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
